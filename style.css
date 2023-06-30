@@ -7,24 +7,18 @@
 
 body {
     height: 100vh;
-    font-family: Arial, Helvetica, sans-serif;
     display: grid;
     place-items: center;
-    margin-top: 5rem;
     background-color: black;
 }
-
 
 .jpg {
     width: 320px;
 }
 
-h1 {
-    margin-bottom: 10%;
+.h1 {
     color: white;
     text-decoration: underline;
-    justify-content: flex-start;
-    margin-left: 5%;
 }
 
 .h2 {
@@ -41,5 +35,4 @@ h1 {
     color: white;
     text-decoration: underline;
 }
-
 
